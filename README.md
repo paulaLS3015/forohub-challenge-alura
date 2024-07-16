@@ -1,6 +1,6 @@
 # ForoHub: API REST para Gestión de Tópicos
 
-![ForoHub Logo](forohub%20logo.png)
+![ForoHub Logo](fBadge-Spring.png)
 
 ForoHub es una API REST construida con Spring que permite a los usuarios gestionar tópicos en un foro. Si estás buscando una solución completa para crear, consultar, actualizar y eliminar tópicos, ¡has llegado al lugar correcto!
 
